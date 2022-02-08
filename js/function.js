@@ -11,9 +11,7 @@ to_currencyEl.addEventListener('change', calculate);
 to_ammountEl.addEventListener('input', calculate);
 
 exchange.addEventListener('click', () => {
-    //const temp = from_currencyEl.value;
-    //from_currencyEl.value = to_currencyEl.value;
-    //to_currencyEl.value = temp;
+   
     calculate();
 });
 
@@ -32,13 +30,7 @@ function calculate() {
              to_ammountEl.value = conversion;
              })
 
-
-    // .then(res => {
-    //const rate = res.rates[to_currency];
-    //rateEl.innerText = `1 ${from_currency} = ${rate} ${to_currency}`
-    //to_ammountEl.value = (from_ammountEl.value * rate).toFixed(2);
-    //})//
-}
+  }
 
 
 calculate();
