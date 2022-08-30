@@ -16,4 +16,4 @@ ________________________________________________________________________________
 
 
 # Link
-![Ss](https://karltunmoreno.github.io/Currency-Guide/)
+https://karltunmoreno.github.io/Currency-Guide/
