@@ -1,4 +1,8 @@
 ## Currency Guide
+
+
+
+![Ss](https://media-exp1.licdn.com/dms/image/C4E2DAQHV8jVFLtKqRA/profile-treasury-image-shrink_800_800/0/1661842741433?e=1662451200&v=beta&t=fpwYWRIXlN3zDryw8S3EJt1tIvpjUlt0Mi86tGfmSx0)
 __________________________________________________________________________________________________________________________________________________________
 ## User Story 
 
